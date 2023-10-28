@@ -1,0 +1,6 @@
+host: "0.0.0.0"
+username: "bam"
+password: "q1w2e3r4t5"
+file_directory_path: "tests/p7zip-full.deb"
+file_directory_path_test: "tests1/p7zip-full.deb"
+target_directory: "/home/bam/p7zip-full.deb"
